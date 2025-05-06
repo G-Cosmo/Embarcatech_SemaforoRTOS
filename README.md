@@ -1,4 +1,4 @@
-# Embarcatech_Ohmimetro
+# Embarcatech_SemaforoRTOS
 
 Repositório criado para a tarefa relacionada à construção de um semáforo utilizando a função de multitarefas do FreeRTOS com a placa BitDogLab.
 
